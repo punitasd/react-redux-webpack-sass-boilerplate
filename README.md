@@ -1,8 +1,14 @@
-# Simple React Webpack boilerplate
+# React+Redux+Webpack+Sass boilerplate
 
-A ready to use simple boilerplate for React Apps.
+A ready to use boilerplate for React Apps.
 
-## Instructions
+## Run in dev
+
+* Clone the repo
+* Run `npm install`
+* Run `npm run start-dev`
+
+## Run in prod
 
 * Clone the repo
 * Run `npm install`
