@@ -8,7 +8,7 @@ import classes from "./style.scss"; // classes will be map of classname and uniq
 
 const UserList = ({ userList }) => {
   return (
-    <div className={classes.div}>
+    <div className={classes.div} data-test="component-users">
       <ul className={classes.ul}>
         {userList.map(user => (
           <li key={user.id} className={classes.li}>
