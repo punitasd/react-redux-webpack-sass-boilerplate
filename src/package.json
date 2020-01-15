@@ -57,12 +57,12 @@
     "webpack-cli": "^3.1.1",
     "webpack-dev-server": "^3.1.14",
     "webpack-merge": "^4.2.2",
-    "webpack-node-externals": "^1.7.2"
-  },
-  "dependencies": {
+    "webpack-node-externals": "^1.7.2",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
-    "enzyme-to-json": "^3.4.3",
+    "enzyme-to-json": "^3.4.3"
+  },
+  "dependencies": {
     "express": "^4.17.1",
     "file-loader": "^4.1.0",
     "fs": "0.0.1-security",
