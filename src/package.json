@@ -74,7 +74,7 @@
     "install": "^0.13.0",
     "ismobilejs": "^0.5.1",
     "minimist": "^1.2.0",
-    "npm": "^6.13.4",
+    "npm": "^9.6.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-redux": "^7.1.1",
